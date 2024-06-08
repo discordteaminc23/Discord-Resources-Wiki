@@ -33,3 +33,10 @@ description: Official servers owned by Discord.
 **Link:** [Discord Safety](https://discord.gg/safety)
 
 @gg/safety
+
+## Discord Team
+
+> **Description:** server for @DiscordTeam for discord support.  <br/>
+**Link:** [DiscordTeam](https://discord.gg/4ZntzBW5)
+
+@gg/discordteam
